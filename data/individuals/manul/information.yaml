@@ -1,0 +1,36 @@
+- ID: Karaganda_wild
+  gender: MALE
+  year_1: '2011~'
+  year_2: '~/2026.02.04'
+  info: 
+    zh: |
+      来自哈萨克斯坦卡拉干达市的野外。先前被误认为是Lev的爸爸，因此在日本也被叫作“レフパパ”。出生时间应早于2012年。2021年前后左眼出现严重的疤痕。
+  residents: 
+  - nature: 
+      zh: 哈萨克斯坦卡拉干达市野外
+    time: '?-2011'
+  - zoo: Karagandy
+    time: '2011-2013.S3'
+  - zoo: NSKZOO
+    time: '2013.S3-2026'
+  links: 
+  - 'https://manulization.com/manuls/karaganda.html'
+- ID: Zelenogorsk_wild
+  gender: MALE
+  year_1: '2013~'
+  year_2: '~/2026.01.22'
+  info: 
+    zh: |
+      全名“泽列诺戈尔斯克”，简称“泽列”。来自俄罗斯图瓦共和国野外，在泽列诺戈尔斯克接受救助，2014年搬往新西伯利亚动物园。2022年因踩尾巴视频爆火<omr>1</omr>，也是视频发布者Manulization卡通图标的原型。2024年10月6日下午抓伤一位试图逗弄他的游客<omr>2</omr>。
+  residents: 
+  - nature: 
+      zh: 俄罗斯图瓦共和国野外
+    time: '?-2013'
+  - zoo: Zelenogorsk
+    time: '2013-2014.06-17'
+  - zoo: NSKZOO
+    time: '2014.06.17-2026'
+  links: 
+  - 'https://manulization.com/manuls/manul-zelenogorsk.html'
+  - 'https://www.youtube.com/shorts/BVTgx9TpAWM'
+  - 'https://ngs.ru/text/animals/2024/10/08/74180897'

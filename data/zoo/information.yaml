@@ -1,0 +1,32 @@
+- ID: Xi-Ning
+  info: 
+    zh: ""
+    en: ""
+  lang_order: [zh, en]
+  country: 
+    zh: 中国
+    en: China
+  subregion: 
+    zh: 青海省
+    en: Qinghai Province
+  city: 
+    zh: 西宁市
+    en: Xining City
+- ID: NSKZOO
+  info: 
+    zh: ""
+    en: ""
+  lang_order: [ru, zh, en]
+  country: 
+    ru: Россия
+    zh: 俄罗斯
+    en: Russia
+  subregion: 
+    ru: Новосибирская область
+    zh: 新西伯利亚州
+    en: Novosibirsk Oblast
+  city: 
+    ru: Новосибирская
+    zh: 新西伯利亚
+    en: Novosibirsk
+  

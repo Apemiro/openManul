@@ -1,0 +1,41 @@
+- ID: 'Wild~Xining~2015'
+  place: The-Wild
+  nature: 
+    zh: 中国青海野外
+  year_1: '2015'
+  kittens:
+  - SunSimiao_2015
+  - SunXiaomei_2015
+  links: []
+- ID: 'NSKZOO~Lastochka~2020'
+  place: NSKZOO
+  mother: Lastochka_2014
+  father: Zelenogorsk_wild
+  year_1: '2020.06.11'
+  kittens:
+  - Chip_2020
+  - Earl_2020
+  - Emma_2020
+  - Lolo_2020
+  - Pepe_2020
+  - Timofey_2020
+  links: []
+- ID: 'NSKZOO~Mia~2022'
+  place: NSKZOO
+  mother: Mia_2016
+  father_candidates: 
+  - Earl_2020
+  - George_2018
+  - Zelenogorsk_wild
+  year_1: '2022.06.06'
+  kittens:
+  - Snezhinka_2022
+  - Bajun_2022
+  - Shaman_2022
+  - Snezhana_2022
+  - Shorokh_2022
+  links: 
+  - 'https://t.me/manulization/550?comment=30172'
+  notes: 
+    zh: |
+      园方未公布父亲信息，可能是乔治、伯爵或泽列。

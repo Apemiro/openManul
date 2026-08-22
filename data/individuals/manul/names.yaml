@@ -1,0 +1,75 @@
+- ID: SunXiaoman_2014
+  name: 
+    zh: 狲小满
+    en: Sun Xiaoman
+    ru: Сунь Сяомань
+- ID: SunSimiao_2015
+  name: 
+    zh: 狲思邈
+    en: Sun Simiao
+    ru: Сунь Сымяо
+  alias:
+    zh: 
+    - 四秒
+- ID: SunXiaomei_2015
+  name: 
+    zh: 狲小妹
+    en: Sun Xiaomei
+    ru: Сунь Сяомей
+- ID: SunShangxiang_2019
+  name: 
+    zh: 狲尚香
+    en: Sun Shangxiang
+    ru: Сунь Шансян
+- ID: SunDaniang_2021
+  name: 
+    zh: 狲大娘
+    en: Sun Daniang
+    ru: Сунь Даньян
+- ID: SunSanlang_2022
+  name: 
+    zh: 狲三郎
+    en: Sun Sanlang
+  alias:
+    zh: 
+    - 墩子
+    en: 
+    - Dunzi
+- ID: Karaganda_wild
+  name: 
+    zh: 卡拉干达
+    en: Karaganda
+    ru: Караганда
+    ja: カラガンダ
+- ID: Zelenogorsk_wild
+  name: 
+    zh: 泽列诺戈尔斯克
+    en: Zelenogorsk
+    ru: Зеленогорск
+    ja: グリン
+  alias:
+    zh: 
+    - 泽列
+    en: 
+    - Gorsk
+    - Big Z
+    - Zel
+    - Zelen
+- ID: Lastochka_2014
+  name: 
+    zh: 燕子
+    en: Lastochka
+    ru: Ласточке
+    ja: ツバメ
+- ID: Mia_2016
+  name: 
+    zh: 米娅
+    en: Mia
+    ru: Мия
+- ID: George_2018
+  name: 
+    zh: 乔治
+    en: George
+    ru: Жорик
+  alias: 
+    ru: Жора

@@ -1,0 +1,6 @@
+- alias: Karaganda_temp
+  ID: Karaganda_wild
+  notes: temp表示尚未明确出生年份，Karaganda在野外出生无法确定。
+- alias: Zelenogorsk_temp
+  ID: Zelenogorsk_wild
+  notes: temp表示尚未明确出生年份，Zelenogorsk在野外出生无法确定。
