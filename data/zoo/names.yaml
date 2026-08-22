@@ -1,13 +1,15 @@
 - ID: Xi-Ning
   lat: 36.6276
   lng: 101.736
-  name_en: Xining Wildlife Park
-  name_zh: 西宁野生动物园
+  name:
+    en: Xining Wildlife Park
+    zh: 西宁野生动物园
   zoo_site: 'https://space.bilibili.com/525328268'
 - ID: NSKZOO
   lat: 55.0552
   lng: 82.879
-  name_en: Novosibirsk Zoo
-  name_ru: Новосибирский зоопарк имени Ростислава Александровича Шило
-  name_zh: 新西伯利亚动物园
+  name: 
+    en: Novosibirsk Zoo
+    ru: Новосибирский зоопарк имени Ростислава Александровича Шило
+    zh: 新西伯利亚动物园
   zoo_site: 'https://zoonovosib.ru'
