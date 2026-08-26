@@ -13,3 +13,11 @@
     ru: Новосибирский зоопарк имени Ростислава Александровича Шило
     zh: 新西伯利亚动物园
   zoo_site: 'https://zoonovosib.ru'
+- ID: Moscow
+  lat: 55.7611
+  lng: 37.5783
+  name: 
+    en: Moscow Zoo
+    ru: Московский зоопарк
+    zh: 莫斯科动物园
+  zoo_site: 'https://www.moscowzoo.ru/'
