@@ -1,0 +1,28 @@
+Date specifications are used in various contexts across openManul, including an individual's birth/death dates, transfers between zoos, and the creation/publication timestamps of image archives. Since this information is often uncertain or incomplete, both time points and durations should be recorded using the standardized formats below.
+
+
+# Time Point
+
+Select the most specific format applicable based on the precision of the available data:
+
+YYYY.MM.DD (e.g., 2020.04.30) – Year, month, and day, separated by dots in descending order. The year must contain 4 digits, and the month and day must contain 2 digits each. Ignore time zones and record in local time.
+
+YYYY.MM (e.g., 2020.04) – Omit the day if the exact day is uncertain.
+
+YYYY.Qn (e.g., 2020.Q2) – Use Qn (Q1–Q4) if the specific month is uncertain, but the quarter is confirmed.
+
+YYYY.Sn (e.g., 2020.S2) – Use Sn (S1–S4) if both the month and quarter are uncertain, but the season is confirmed. For example in the Northern Hemisphere, Spring is defined as S1, through to Winter as S4. In particular, a winter spanning two calendar years should be attributed to the earlier year.
+
+YYYY (e.g., 2020) – Record only the year if the month, quarter, and season are all uncertain.
+
+In addition to the strict formats above, use ~ to denote "before", "after", or "approximately":
+
+~/YYYY (e.g., ~/2020) – In this year or earlier.
+
+YYYY/~ (e.g., 2020/~) – In this year or later.
+
+YYYY~ (e.g., 2020~) – Approximate year (uncertain exact year).
+
+# duration
+
+...
